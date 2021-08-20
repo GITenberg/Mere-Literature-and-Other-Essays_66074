@@ -1,0 +1,27 @@
+_repo: Mere-Literature-and-Other-Essays_66074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Woodrow
+    aliases:
+    - Wilson, Thomas Woodrow
+    - Wilson, T. W. (Thomas Woodrow)
+    - United States President (1913-1921)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '1689'
+    url: http://www.gutenberg.org/2009/agents/1689
+    wikipedia: https://en.wikipedia.org/wiki/Woodrow_Wilson
+description: ''
+gutenberg_issued: '2021-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mere Literature and Other Essays
+url: http://www.gutenberg.org/ebooks/66074
